@@ -1,0 +1,7 @@
+[package]
+name = "push_swap-bf-rs-to-bin"
+publish = false
+version = "0.1.0"
+
+[dependencies]
+regex = "1.9.6"
